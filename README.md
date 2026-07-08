@@ -1,4 +1,4 @@
-# Signup routing page
+# Signup routing
 
 I saw [this LinkedIn post](https://www.linkedin.com/posts/mariluukkainen_hire-diverse-pre-vetted-talent-share-7466407920717545474-Serd/): match.herizon.io is a signup form for companies (employers), but job seekers keep mistakenly making company profiles.
 
